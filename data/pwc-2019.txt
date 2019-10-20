@@ -1,4 +1,14 @@
-#797 by andrezgz was merged 3 minutes ago
+#807 by kolcon was merged 2 minutes ago
+#806 by kolcon was merged 1 hour ago
+#805 by kolcon was merged 2 hours ago
+#804 by PerlMonk-Athanasius was merged 3 hours ago
+#803 by adamcrussell was merged 3 hours ago
+#802 by jmaslak was merged 14 hours ago
+#801 by k-mx was merged 14 hours ago
+#800 by izifresh was merged 14 hours ago
+#799 by kyzn was merged 14 hours ago
+#798 by noudald was merged 14 hours ago
+#797 by andrezgz was merged yesterday
 #796 by izifresh was merged 3 minutes ago
 #795 by izifresh was merged 26 minutes ago
 #794 by 4RandR was merged 3 hours ago
