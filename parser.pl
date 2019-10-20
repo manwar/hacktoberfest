@@ -62,6 +62,9 @@ sub author_name_of {
     my ($author_id) =@_;
 
     my $name_map = {
+        'SvetlanaNesterova'   => 'Svetlana Nesterova',
+        'creewick'            => 'Creewick',
+        'Leoltron'            => 'Leoltron',
         'k-mx'                => 'Maxim Kolodyazhny',
         'izifresh'            => 'Izifresh',
         '4RandR'              => 'Vyacheslav Volgarev',
