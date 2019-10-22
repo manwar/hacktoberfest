@@ -63,6 +63,8 @@ sub author_name_of {
 
     my $name_map = {
         'toshikFedotov'       => 'Anton Fedotov',
+        'Aearnus'             => 'Tyler Limkemann',
+        'lbalker'             => 'Lars Balker',
         'SvetlanaNesterova'   => 'Svetlana Nesterova',
         'creewick'            => 'Creewick',
         'Leoltron'            => 'Leoltron',
