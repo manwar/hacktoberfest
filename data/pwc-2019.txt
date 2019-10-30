@@ -1,3 +1,46 @@
+#875 by jacoby was merged 4 minutes ago
+#874 by Firedrake was merged 2 hours ago
+#873 by Prajithp was merged 2 hours ago
+#872 by rage311 was merged 2 hours ago
+#871 by oWnOIzRi was merged 22 hours ago
+#870 by jmaslak was merged 22 hours ago
+#869 by duanepowell was merged 23 hours ago
+#868 by andrezgz was merged yesterday
+#867 by tagg was merged yesterday
+#866 by choroba was merged 2 days ago
+#865 by oWnOIzRi was merged 2 days ago
+#864 by holli-holzer was merged 2 days ago
+#863 by davorg was merged 2 days ago
+#862 by Doomtrain14 was merged 2 days ago
+#861 by Doomtrain14 was merged 2 days ago
+#860 by Doomtrain14 was merged 2 days ago
+#859 by lbalker was merged 2 days ago
+#858 by Scimon was merged 2 days ago
+#857 by Scimon was merged 2 days ago
+#856 by davorg was merged 2 days ago
+#855 by Scimon was merged 2 days ago
+#854 by jaldhar was merged 3 days ago
+#853 by dcw803 was merged 1 hour ago
+#852 by jaldhar was merged 1 hour ago
+#851 by jmaslak was merged 3 hours ago
+#850 by mark-senn was merged 3 hours ago
+#849 by jmaslak was merged 3 hours ago
+#848 by choroba was merged 14 hours ago
+#847 by kolcon was merged 14 hours ago
+#846 by choroba was merged 15 hours ago
+#845 by kolcon was merged 15 hours ago
+#844 by kolcon was merged 15 hours ago
+#843 by adamcrussell was merged 21 hours ago
+#842 by jmaslak was merged 21 hours ago
+#841 by drclaw1394 was merged 21 hours ago
+#840 by kolcon was merged yesterday
+#839 by noudald was merged yesterday
+#838 by PerlMonk-Athanasius was merged yesterday
+#837 by toshikFedotov was merged 2 days ago
+#836 by rage311 was merged 14 minutes ago
+#835 by choroba was merged 17 minutes ago
+#834 by tagg was merged 19 hours ago
+#833 by jacoby was merged yesterday
 #832 by oWnOIzRi was merged 3 hours ago
 #831 by oWnOIzRi was merged 4 hours ago
 #830 by andrezgz was merged 4 hours ago
